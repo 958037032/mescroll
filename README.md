@@ -9,7 +9,7 @@
 
 4. 主流APP案例, 丰富经典
 
-5. 免费商用
+5. MIT协议, 免费商用
 
 6. <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1067896895dabdf6cf11f4decb0be8bfd3687d3d208730bf2757238ba1948469">mescroll交流群</a>
 		
